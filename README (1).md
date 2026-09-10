@@ -89,7 +89,7 @@
 
 `GIS 분석` `데이터 가공` `다중툴 활용력`
 
-🔗 **프로젝트 상세 보기 (지도·GIS 분석·최종 패널 이미지):** [링크를 입력하세요](#)
+🔗 **프로젝트 상세 보기 (지도·GIS 분석·최종 패널 이미지):** https://uos-urbanscience.org/archives/uos_portfolio/%ec%b2%ad%eb%85%84-%ec%b0%bd%ec%97%85%ec%9d%98-%ec%a7%80%ec%86%8d%ec%9d%84-%ec%9c%84%ed%95%9c-%ec%a3%bc%ea%b1%b0%ea%b2%b0%ed%95%a9%ed%98%95-%ec%b0%bd%ec%97%85%ec%a7%80%ec%9b%90%ec%8b%9c%ec%84%a4
 
 ---
 

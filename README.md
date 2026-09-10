@@ -1,2 +1,0 @@
-# PORTFOLIO_SEYEONGKIM
-포트폴리오_김세영
